@@ -1,0 +1,128 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@babel/parser@^7.18.4",
+        "scope": "@babel",
+        "escapedName": "@babel%2fparser",
+        "name": "@babel/parser",
+        "rawSpec": "^7.18.4",
+        "spec": ">=7.18.4 <8.0.0",
+        "type": "range"
+      },
+      "/home/smis/Desktop/real-smis/node_modules/@vue/compiler-sfc"
+    ]
+  ],
+  "_from": "@babel/parser@>=7.18.4 <8.0.0",
+  "_hasShrinkwrap": false,
+  "_id": "@babel/parser@7.20.5",
+  "_inCache": true,
+  "_location": "/@babel/parser",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/parser_7.20.5_1669630363635_0.23000275173113782"
+  },
+  "_npmUser": {
+    "name": "nicolo-ribaudo",
+    "email": "nicolo.ribaudo@gmail.com"
+  },
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@babel/parser@^7.18.4",
+    "scope": "@babel",
+    "escapedName": "@babel%2fparser",
+    "name": "@babel/parser",
+    "rawSpec": "^7.18.4",
+    "spec": ">=7.18.4 <8.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/@vue/compiler-sfc"
+  ],
+  "_resolved": "https://registry.npmjs.org/@babel/parser/-/parser-7.20.5.tgz",
+  "_shasum": "7f3c7335fe417665d929f34ae5dceae4c04015e8",
+  "_shrinkwrap": null,
+  "_spec": "@babel/parser@^7.18.4",
+  "_where": "/home/smis/Desktop/real-smis/node_modules/@vue/compiler-sfc",
+  "author": {
+    "name": "The Babel Team",
+    "url": "https://babel.dev/team"
+  },
+  "bin": {
+    "parser": "./bin/babel-parser.js"
+  },
+  "bugs": {
+    "url": "https://github.com/babel/babel/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3A%22pkg%3A+parser+%28babylon%29%22+is%3Aopen"
+  },
+  "dependencies": {},
+  "description": "A JavaScript parser",
+  "devDependencies": {
+    "@babel/code-frame": "^7.18.6",
+    "@babel/helper-check-duplicate-nodes": "^7.18.6",
+    "@babel/helper-fixtures": "^7.19.4",
+    "@babel/helper-string-parser": "^7.19.4",
+    "@babel/helper-validator-identifier": "^7.19.1",
+    "charcodes": "^0.2.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "7f3c7335fe417665d929f34ae5dceae4c04015e8",
+    "integrity": "sha512-r27t/cy/m9uKLXQNWWebeCUHgnAZq0CpG1OwKRxzJMP1vpSU4bSIK2hq+/cp0bQxetkXx38n09rNu8jVkcK/zA==",
+    "tarball": "https://registry.npmjs.org/@babel/parser/-/parser-7.20.5.tgz",
+    "fileCount": 9,
+    "unpackedSize": 1944808,
+    "signatures": [
+      {
+        "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+        "sig": "MEYCIQDWmZlswS6nrGUteC0W162gmaFDtQ6dyR2FKG2jQYjYEwIhAPKLQ1s6JF3mfTo7hHmlRmBjzQawbUrEkCSjqwyfQwTI"
+      }
+    ],
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjhImbACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmr+bg/9Hw9ebCQFq07Iwaq0+f9tasmAh7JPmT9M+B+aLnVcb8QZdRNg\r\nI1RFECvJUKwyTVWO9e8J1vf7B/Cr3NizQuqLR1OsQoNAvlA8EKOm89r36wTC\r\nCT1DKLgk35oMGj4d70nsB5psnzPu1iZ1zCbnIt/Mdsc/hJ5Pu9U0rNpZQJ/S\r\nauNqiGDkoSXBh24mHCU8iukYIvwxU0qBPS4h5WSce0LPQcNq/6kHJhBWynTm\r\n36zGAT56U8r1K+s4lnMEyy6WnL5+mWC5a6fsAWkyxWaJfwhd+S5gYLdCwgEp\r\nv+/m/j100LVlxrXU1dFjHvTxowYgqvTUABgMFUPi0xMe7KhMr9IyQmLBWssY\r\njJNVqGjka2Ej9DrTqAfCZzmRkqnKzokC9CT0JgNnGW+yQAIv4rmXO9xv2Ls3\r\nOMAtxjw1O4ykb8SqdfJSjGdcGSD8W1t3M2fJDK52GRy3YxM95thWm/crZnzq\r\nmydEa+xf2jPpwuyZ3kMex3DFaGUm6EHsCjJWxfkiRAoIFIX/1ea5BPMi+DAN\r\ncMghOuwEXGCMuYiJQu5+UVuKsTnxcYWcu8uVZXalTedGPntcPC4t2GW2GClC\r\negwMziz1tk+xpGc5K00Husi09OCuVNKHx1PUc9brtBQqT3zLM5jsvp8fFAwV\r\nwlrVM9gRuXfiFK9d40oQY633jzbM6ZYZsos=\r\n=FxJH\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "homepage": "https://babel.dev/docs/en/next/babel-parser",
+  "keywords": [
+    "babel",
+    "javascript",
+    "parser",
+    "tc39",
+    "ecmascript",
+    "@babel/parser"
+  ],
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "maintainers": [
+    {
+      "name": "hzoo",
+      "email": "hi@henryzoo.com"
+    },
+    {
+      "name": "existentialism",
+      "email": "bng412@gmail.com"
+    },
+    {
+      "name": "nicolo-ribaudo",
+      "email": "nicolo.ribaudo@gmail.com"
+    },
+    {
+      "name": "jlhwung",
+      "email": "i@jhuang.me"
+    }
+  ],
+  "name": "@babel/parser",
+  "optionalDependencies": {},
+  "publishConfig": {
+    "access": "public"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babel/babel.git",
+    "directory": "packages/babel-parser"
+  },
+  "type": "commonjs",
+  "types": "./typings/babel-parser.d.ts",
+  "version": "7.20.5"
+}

@@ -1,0 +1,146 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "browser-sync-ui@^2.27.11",
+        "scope": null,
+        "escapedName": "browser-sync-ui",
+        "name": "browser-sync-ui",
+        "rawSpec": "^2.27.11",
+        "spec": ">=2.27.11 <3.0.0",
+        "type": "range"
+      },
+      "/home/smis/Desktop/real-smis/node_modules/browser-sync"
+    ],
+    [
+      {
+        "raw": "browser-sync-ui@^2.26.4",
+        "scope": null,
+        "escapedName": "browser-sync-ui",
+        "name": "browser-sync-ui",
+        "rawSpec": "^2.26.4",
+        "spec": ">=2.26.4 <3.0.0",
+        "type": "range"
+      },
+      "/home/smis/Desktop/real-smis/node_modules/browser-sync"
+    ]
+  ],
+  "_from": "browser-sync-ui@^2.26.4",
+  "_hasShrinkwrap": false,
+  "_id": "browser-sync-ui@2.27.11",
+  "_inCache": true,
+  "_location": "/browser-sync-ui",
+  "_nodeVersion": "16.13.2",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/browser-sync-ui_2.27.11_1671468119287_0.5664593192314877"
+  },
+  "_npmUser": {
+    "name": "shakyshane",
+    "email": "shakyshane@gmail.com"
+  },
+  "_npmVersion": "lerna/4.0.0/node@v16.13.2+arm64 (darwin)",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "browser-sync-ui@^2.26.4",
+    "scope": null,
+    "escapedName": "browser-sync-ui",
+    "name": "browser-sync-ui",
+    "rawSpec": "^2.26.4",
+    "spec": ">=2.26.4 <3.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/browser-sync"
+  ],
+  "_resolved": "https://registry.npmjs.org/browser-sync-ui/-/browser-sync-ui-2.27.11.tgz",
+  "_shasum": "a391a0cd011dc19cb1798d10bc2ba29c9bcc5a2c",
+  "_shrinkwrap": null,
+  "_spec": "browser-sync-ui@^2.26.4",
+  "_where": "/home/smis/Desktop/real-smis/node_modules/browser-sync",
+  "author": {
+    "name": "Shane Osbourne"
+  },
+  "bugs": {
+    "url": "https://github.com/BrowserSync/UI/issues"
+  },
+  "dependencies": {
+    "async-each-series": "0.1.1",
+    "connect-history-api-fallback": "^1",
+    "immutable": "^3",
+    "server-destroy": "1.0.1",
+    "socket.io-client": "^4.4.1",
+    "stream-throttle": "^0.1.3"
+  },
+  "description": "User Interface for BrowserSync",
+  "devDependencies": {
+    "angular": "^1.8.2",
+    "angular-route": "~1.8.2",
+    "angular-sanitize": "^1.8.2",
+    "angular-touch": "^1.8.2",
+    "bs-snippet-injector": "^2.0.1",
+    "chai": "^3",
+    "compression": "^1",
+    "crossbow-sites": "^1.0.1",
+    "easy-svg": "^3.0.0",
+    "eazy-logger": "^3.1.0",
+    "esbuild": "^0.14.27",
+    "jshint": "^2.8.0",
+    "mocha": "^8.2.0",
+    "no-abs": "0.0.0",
+    "object-path": "^0.11.5",
+    "parallelshell": "^2.0.0",
+    "pretty-js": "^0.1.8",
+    "request": "^2",
+    "sinon": "^1",
+    "store": "^1.3.20",
+    "supertest": "^3",
+    "uglify-js": "^2.6.1",
+    "vinyl-fs": "3.0.3"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-1T/Y8Pp1R68aUL7zVSFq0nxtr258xWd/nTasCAHX2M6EsGaswVOFtXsw3bKqsr35z+J+LfVfOdz1HFLYKxdgrA==",
+    "shasum": "a391a0cd011dc19cb1798d10bc2ba29c9bcc5a2c",
+    "tarball": "https://registry.npmjs.org/browser-sync-ui/-/browser-sync-ui-2.27.11.tgz",
+    "fileCount": 126,
+    "unpackedSize": 2408320,
+    "signatures": [
+      {
+        "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+        "sig": "MEYCIQDCTPoqMOJpezwDdZGhHszSnT/82HGugH1c8FryLFpqFQIhALWPZol0gmY4RJULhinlogH1XfF+9KvXQWyzqeeaUcId"
+      }
+    ],
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjoJRXACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmr2eQ/+OSSH3CM6yGcVkqZzE2LbYHEQo3Hr8A8ANQ6mMaMTW3r2o8rU\r\n1Acgygz0Fz+OsdJNldKFhFdACXnzaDk0Je+dgkgw7Xe0HznG35XetPS5DyWc\r\nFnlNN0Z+eynpdHVBqmXfvzUy5nGPdsvebQm9PpaeVMzDr2NLjYvUySm5i1dP\r\nCJMS7Me4HBvwrTWod6ujxDVLX9OWM6kBLlo1AsSk5qu4ySzIq2TwmSVaUtLh\r\nwU19/VKx83jTawoAs2PUx8AN4cxKZPBn8/CTt4ulJIR9Ct3VCgJfvIhrIgxq\r\nQTbmNVaJhezAlguQKKu71M3V8FQ0U/bAjg1Gd5uqaqF+YU/2CTtr5Ooo+4qF\r\n6yjep99dCrv9vPJapCzFfo20n24vGosxagu/qtCqQXwAW8jUStdp+MYagxmJ\r\nmHGgm977IwMQAqjIXuxD/JmI+COKYaPVPy85jg2PUTPGQbhUWodK14qmeQQA\r\n4SgD2QyzyE7NloQQKgzwqXcXvcbxAj//Xr8JXZXnfEczqxWkjqYL46ReV1Pu\r\nuUkhZ6W6P2UPC8BIH3bULqI5pSlMRxatLAAQfn0bQJtlHxXah9+if480/nzZ\r\nLKzXDLVNL2HACGp/5wOWm32L3CTXfUpLC6UmoweQSd2plUPdaNtGgwS8pTNm\r\nV8b5i94m9D2geCcN4K8G7m76+B6NHxQ9Z+Q=\r\n=tUGV\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "gitHead": "01caeb38f034eb04619c4c14c9376f14eb76184b",
+  "homepage": "http://www.browsersync.io/",
+  "keywords": [
+    "browser sync",
+    "live reload",
+    "css injection",
+    "action sync"
+  ],
+  "license": "Apache-2.0",
+  "maintainers": [
+    {
+      "name": "shakyshane",
+      "email": "shakyshane@gmail.com"
+    }
+  ],
+  "name": "browser-sync-ui",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrowserSync/UI.git"
+  },
+  "scripts": {
+    "build": "npm run build:static && npm run build:bundle",
+    "build:bundle": "esbuild src/scripts/app.js --bundle --outdir=public/js --minify",
+    "build:static": "node tasks/crossbow.js",
+    "prepublishOnly": "npm run build",
+    "watch": "npm run build:webpack -- --watch"
+  },
+  "version": "2.27.11"
+}

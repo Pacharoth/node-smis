@@ -1,0 +1,115 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@socket.io/component-emitter@~3.1.0",
+        "scope": "@socket.io",
+        "escapedName": "@socket.io%2fcomponent-emitter",
+        "name": "@socket.io/component-emitter",
+        "rawSpec": "~3.1.0",
+        "spec": ">=3.1.0 <3.2.0",
+        "type": "range"
+      },
+      "/home/smis/Desktop/real-smis/node_modules/socket.io-client"
+    ],
+    [
+      {
+        "raw": "@socket.io/component-emitter@~3.1.0",
+        "scope": "@socket.io",
+        "escapedName": "@socket.io%2fcomponent-emitter",
+        "name": "@socket.io/component-emitter",
+        "rawSpec": "~3.1.0",
+        "spec": ">=3.1.0 <3.2.0",
+        "type": "range"
+      },
+      "/home/smis/Desktop/real-smis/node_modules/socket.io-client"
+    ]
+  ],
+  "_from": "@socket.io/component-emitter@~3.1.0",
+  "_hasShrinkwrap": false,
+  "_id": "@socket.io/component-emitter@3.1.0",
+  "_inCache": true,
+  "_location": "/@socket.io/component-emitter",
+  "_nodeVersion": "16.13.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/component-emitter_3.1.0_1650230516260_0.3332721876168674"
+  },
+  "_npmUser": {
+    "name": "darrachequesne",
+    "email": "damien.arrachequesne@gmail.com"
+  },
+  "_npmVersion": "8.1.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@socket.io/component-emitter@~3.1.0",
+    "scope": "@socket.io",
+    "escapedName": "@socket.io%2fcomponent-emitter",
+    "name": "@socket.io/component-emitter",
+    "rawSpec": "~3.1.0",
+    "spec": ">=3.1.0 <3.2.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/engine.io-client",
+    "/socket.io-client",
+    "/socket.io-parser"
+  ],
+  "_resolved": "https://registry.npmjs.org/@socket.io/component-emitter/-/component-emitter-3.1.0.tgz",
+  "_shasum": "96116f2a912e0c02817345b3c10751069920d553",
+  "_shrinkwrap": null,
+  "_spec": "@socket.io/component-emitter@~3.1.0",
+  "_where": "/home/smis/Desktop/real-smis/node_modules/socket.io-client",
+  "bugs": {
+    "url": "https://github.com/socketio/emitter/issues"
+  },
+  "component": {
+    "scripts": {
+      "emitter/index.js": "index.js"
+    }
+  },
+  "dependencies": {},
+  "description": "Event emitter",
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-+9jVqKhRSpsc591z5vX+X5Yyw+he/HCB4iQ/RYxw35CEPaY1gnsNE43nf9n9AaYjAQrTiI/mOwKUKdUs9vf7Xg==",
+    "shasum": "96116f2a912e0c02817345b3c10751069920d553",
+    "tarball": "https://registry.npmjs.org/@socket.io/component-emitter/-/component-emitter-3.1.0.tgz",
+    "fileCount": 6,
+    "unpackedSize": 15327,
+    "signatures": [
+      {
+        "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+        "sig": "MEUCIQC+BXbDeACATdWZPDyTt6B265zP0Bv9y9lmu3XikekjEAIgcU2xaemPoTCG9A/tvDMMj2/DYo0I+bRkrLc0nqne5Xk="
+      }
+    ],
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiXIT0ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmof8A/8CkQswTw1Mw7oLsa8ah3UHWRfNrCnTpaiHsBgptZRoXlbYjHh\r\nkSW2kQ/JB+4kxTMMSLxVMD1hrupjHhr8nLJsUNu+czYPoJz0D8TYH4TYzLJr\r\n3XumIpwqUjQneEm3+CesK99aJaU1d1Lxu8zHSetaB937nigeT+/whRjeSVt4\r\nwqtive2njQ0MtiENJ7L/A0yEUDTOSKzm9F2KvDB4rMF5w7a1njMJyF3HX9U+\r\nUg+grZS4e30jFb1FebCkVa/0zI3hvqsJPiPM0gvpn/E+OHVnibj7OgykkvMJ\r\nKVuCk0C3UDASX7tDvFBy/5ZPormvqFIP7eEuwopqfI61nOX2OZWWBMWnkZmy\r\nbkce6GEa+K4/e1v9kaobAArZ5GyrMdw3Zf2eqfoL/BYSrll8nG8gKxLZ6Qxu\r\nbJg3bRk4o5Zi48OiyXXGFL+EJ7ap/Qx08foVe1jwvLmammswXI/jfeOtDB/j\r\nmQ2FyD2jjBPbkzQ9pPo5yoCnySo0gIAmuqveCSFCWOeM/xbb0cJl8ACYZo3z\r\nAtealMFBWTX6evY7TQiGsuOJndbJTBQntIcq4UzPTubF9JE3pCd9OUeNU/Cm\r\nbPdmQBAkc9WBxIdt77msKAQygju1phZuF9tG8EYwFzgn4ZjZM0D9WUJZP032\r\nx5+KIAkRNH5gTz4ldqCYp2zynKz5mqxPddU=\r\n=q57U\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "gitHead": "ab6a6d4db8302afc2c70ee38d72e4e292bbef3d4",
+  "homepage": "https://github.com/socketio/emitter#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "darrachequesne",
+      "email": "damien.arrachequesne@gmail.com"
+    }
+  ],
+  "module": "index.mjs",
+  "name": "@socket.io/component-emitter",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/socketio/emitter.git"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "types": "index.d.ts",
+  "version": "3.1.0"
+}

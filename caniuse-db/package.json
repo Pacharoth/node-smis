@@ -1,0 +1,107 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "caniuse-db@^1.0.30000214",
+        "scope": null,
+        "escapedName": "caniuse-db",
+        "name": "caniuse-db",
+        "rawSpec": "^1.0.30000214",
+        "spec": ">=1.0.30000214 <2.0.0",
+        "type": "range"
+      },
+      "/home/smis/Desktop/real-smis/node_modules/autoprefixer-core"
+    ]
+  ],
+  "_from": "caniuse-db@>=1.0.30000214 <2.0.0",
+  "_hasShrinkwrap": false,
+  "_id": "caniuse-db@1.0.30001441",
+  "_inCache": true,
+  "_location": "/caniuse-db",
+  "_nodeVersion": "10.24.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/caniuse-db_1.0.30001441_1671639423335_0.10175691015587263"
+  },
+  "_npmUser": {
+    "name": "fyrd",
+    "email": "adeveria@gmail.com"
+  },
+  "_npmVersion": "6.14.17",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "caniuse-db@^1.0.30000214",
+    "scope": null,
+    "escapedName": "caniuse-db",
+    "name": "caniuse-db",
+    "rawSpec": "^1.0.30000214",
+    "spec": ">=1.0.30000214 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/autoprefixer",
+    "/autoprefixer-core",
+    "/autoprefixer/browserslist",
+    "/browserslist",
+    "/caniuse-api",
+    "/caniuse-api/browserslist",
+    "/postcss-merge-rules/browserslist"
+  ],
+  "_resolved": "https://registry.npmjs.org/caniuse-db/-/caniuse-db-1.0.30001441.tgz",
+  "_shasum": "c70fa20ae09654a54bc5949b5a0e131e930dd81e",
+  "_shrinkwrap": null,
+  "_spec": "caniuse-db@^1.0.30000214",
+  "_where": "/home/smis/Desktop/real-smis/node_modules/autoprefixer-core",
+  "author": {
+    "name": "Alexis Deveria",
+    "email": "adeveria@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/Fyrd/caniuse/issues"
+  },
+  "dependencies": {},
+  "description": "Raw browser/feature support data from caniuse.com",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-1Tmmws5udd5rG7N12i7uofQ6NjOExCXt+EBhpjqAicftDvpx9CQ/qL8s8w/Ojnbq9yG3L0UtGSQBHdg7SHqKWw==",
+    "shasum": "c70fa20ae09654a54bc5949b5a0e131e930dd81e",
+    "tarball": "https://registry.npmjs.org/caniuse-db/-/caniuse-db-1.0.30001441.tgz",
+    "fileCount": 795,
+    "unpackedSize": 15966908,
+    "signatures": [
+      {
+        "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+        "sig": "MEUCIG3WssozyuTegMlBU+QBOlyCN026VTSNw5pqXj+qe4kgAiEA86ptFeY7U7qFyvGv0yr4bPb4te1woLZmdvScS0Djw2o="
+      }
+    ],
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjozF/ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpuyBAAopLoiS/RFAey7cerwchYEH9MTv4mC2UCUmHEiMCxiGIS1x+5\r\nwpsR88DK7y8uBey5Jbqi6Nh238mdHxfUANF5VisDcFitKMLKoS8vi1c5w4sv\r\n2uqsG/w7oKWwDwO3F3nfymD4ZU2o0ibcdjIIlnj5xi1HBG8H+s8DKOygM/iv\r\n202Yn80I/SSyNzOMwwvwcnI1bzYAkUFSUROowfxm3Rdo1xwflM6hflQWaoOK\r\nuO7uW0pZcPxvI2t5fr0Dmudk13OXCTEoefVixnk6yEMSLdqXV6kfAX1H6nH0\r\niPX4j31Xn2daqeq7MN6m63SfkGZNewmSIZm1JtHvb1UccLtb5OJ8PY0D726x\r\naDay6aG2VZgNT0HgWy7kIab6tYvfj4zKoFKHjdM11zE5JbSi94vYPmWzQR5f\r\nR8aUexOw7GuhenoPROrQKB9kjxIL7EWKMgyVhdLE5Pa3hhfj2Q9PT1lgR1f5\r\nhfQkl5sSHfJdluTwcTpgZlqoKAK7s5MR4zqZgbqzXhv3D/ilhrrXxnro+gEa\r\nS5LjbkebXh4QnCuAoQaLfKDIN3fQSzOlRwo9UsPCyGDgo8oKmyBGwM7DFa5U\r\nhaQ0AiPi47ibbv9Y2J+jV+kAqH3ZlcC+J9BjsNp0eLdP/g5o+Rq6fs4PP4NC\r\n4P3+z18rp1uEG5M/zvnsCyeDtkCh/ayBeGI=\r\n=1LxT\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "gitHead": "db8bec0beb6f7cb03952926f360b38267234bd25",
+  "homepage": "https://github.com/Fyrd/caniuse#readme",
+  "keywords": [
+    "support",
+    "css",
+    "js",
+    "html5",
+    "svg"
+  ],
+  "license": "CC-BY-4.0",
+  "maintainers": [
+    {
+      "name": "fyrd",
+      "email": "adeveria@gmail.com"
+    }
+  ],
+  "name": "caniuse-db",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fyrd/caniuse.git"
+  },
+  "scripts": {
+    "validate": "node validator/validate-jsons.js"
+  },
+  "version": "1.0.30001441"
+}

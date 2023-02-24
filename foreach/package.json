@@ -1,0 +1,134 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "foreach@^2.0.5",
+        "scope": null,
+        "escapedName": "foreach",
+        "name": "foreach",
+        "rawSpec": "^2.0.5",
+        "spec": ">=2.0.5 <3.0.0",
+        "type": "range"
+      },
+      "/home/smis/Desktop/real-smis/node_modules/stream-http"
+    ]
+  ],
+  "_from": "foreach@>=2.0.5 <3.0.0",
+  "_hasShrinkwrap": false,
+  "_id": "foreach@2.0.6",
+  "_inCache": true,
+  "_location": "/foreach",
+  "_nodeVersion": "14.17.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/foreach_2.0.6_1652275679315_0.696165583763046"
+  },
+  "_npmUser": {
+    "name": "manuelstofer",
+    "email": "manuelstofer@gmail.com"
+  },
+  "_npmVersion": "6.14.13",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "foreach@^2.0.5",
+    "scope": null,
+    "escapedName": "foreach",
+    "name": "foreach",
+    "rawSpec": "^2.0.5",
+    "spec": ">=2.0.5 <3.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/stream-http"
+  ],
+  "_resolved": "https://registry.npmjs.org/foreach/-/foreach-2.0.6.tgz",
+  "_shasum": "87bcc8a1a0e74000ff2bf9802110708cfb02eb6e",
+  "_shrinkwrap": null,
+  "_spec": "foreach@^2.0.5",
+  "_where": "/home/smis/Desktop/real-smis/node_modules/stream-http",
+  "author": {
+    "name": "Manuel Stofer",
+    "email": "manuelstofer@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/manuelstofer/foreach/issues"
+  },
+  "contributors": [
+    {
+      "name": "Manuel Stofer"
+    },
+    {
+      "name": "Jordan Harband",
+      "url": "https://github.com/ljharb"
+    }
+  ],
+  "dependencies": {},
+  "description": "foreach component + npm package",
+  "devDependencies": {
+    "covert": "*",
+    "tape": "*"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-k6GAGDyqLe9JaebCsFCoudPPWfihKu8pylYXRlqP1J7ms39iPoTtk2fviNglIeQEwdh0bQeKJ01ZPyuyQvKzwg==",
+    "shasum": "87bcc8a1a0e74000ff2bf9802110708cfb02eb6e",
+    "tarball": "https://registry.npmjs.org/foreach/-/foreach-2.0.6.tgz",
+    "fileCount": 7,
+    "unpackedSize": 8730,
+    "signatures": [
+      {
+        "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+        "sig": "MEUCIQCirJnTpnLT504X5QbM3uImIfrtDDYYQ0dfm6OJELDzZQIgIH+8AK+4MzDYrpiOtjtkdtCf6Smc3XENjONkFfFPxt4="
+      }
+    ],
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJie7nfACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqG0w//bB/lnepl3jKiuU5B9qogO4uliPg1vuY2bXvcGSmes7+PAm2/\r\nlEj7CWOhb8L7AURGHN9OwMlm7+UleWK2LSzSdhpEKVsZo3p2IW0EaccF2Jil\r\nYx6Zwx4Hw+JcvQTnS24/aEJHKcSDLdzVMO3T962QA3rp7NrowBeqwrXem8yL\r\nLuxKr8O5zNgnu7SWOVgGto/cqPXd+DRDqW+DYQc9Lx02nI+5ADAd3C6U5DRj\r\nqFffyUiy7/BiLxGkqg29JlNjIF0KyX/QAxYSELniVh9DxLMloyAcqVHxu07u\r\neBYxqGefFqxMkxQUc5C/ATGChiD/nZJTF+CTd3g4/yWgTOdqkwlY2gvU2u3R\r\nGC8so1Xk7t0ayiMrU/HWooi/qjtQV2o3Yawh9T9XKVIY+SG+awwOmFkTW5pL\r\nNGtcDW/7owTPm2JgghDo5Q5zGeHjZ/T7lmdyH3AfRaDULGijIp+QCSDMwYkF\r\ngoo7WQ6zG0w6ZuX2y3KT5SkdY2ke+5Iooi8EI82mDQFyqEmR1rzfEKWszZfW\r\ncvqOMWKqIynJzpdabvd/qryIxSR76zeaO9HCvcB8QP0SxZnKVK5oDxJV4l20\r\n+PNaU18VXeB02/09DnET9NfM7VmskllS2ODtxz54of7FqRm58Wdh9L1zQbUP\r\nMoSJ3opV1AG4BMM1b5t7ZOBQURKG32cLnZk=\r\n=ZQx4\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "gitHead": "644640c4c84abc415140b00c3629084e982f2182",
+  "homepage": "https://github.com/manuelstofer/foreach#readme",
+  "keywords": [
+    "shim",
+    "Array.prototype.forEach",
+    "forEach",
+    "Array#forEach",
+    "each"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "manuelstofer",
+      "email": "manuelstofer@gmail.com"
+    }
+  ],
+  "name": "foreach",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/manuelstofer/foreach.git"
+  },
+  "scripts": {
+    "coverage": "covert test.js",
+    "coverage-quiet": "covert --quiet test.js",
+    "test": "node test.js"
+  },
+  "testling": {
+    "files": "test.js",
+    "browsers": [
+      "iexplore/6.0..latest",
+      "firefox/3.0",
+      "firefox/15.0..latest",
+      "firefox/nightly",
+      "chrome/4.0",
+      "chrome/22.0..latest",
+      "chrome/canary",
+      "opera/10.0..latest",
+      "opera/next",
+      "safari/5.0.5..latest",
+      "ipad/6.0..latest",
+      "iphone/6.0..latest",
+      "android-browser/4.2"
+    ]
+  },
+  "version": "2.0.6"
+}

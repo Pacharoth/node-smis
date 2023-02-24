@@ -1,0 +1,152 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "browser-sync-client@^2.27.11",
+        "scope": null,
+        "escapedName": "browser-sync-client",
+        "name": "browser-sync-client",
+        "rawSpec": "^2.27.11",
+        "spec": ">=2.27.11 <3.0.0",
+        "type": "range"
+      },
+      "/home/smis/Desktop/real-smis/node_modules/browser-sync"
+    ],
+    [
+      {
+        "raw": "browser-sync-client@^2.26.6",
+        "scope": null,
+        "escapedName": "browser-sync-client",
+        "name": "browser-sync-client",
+        "rawSpec": "^2.26.6",
+        "spec": ">=2.26.6 <3.0.0",
+        "type": "range"
+      },
+      "/home/smis/Desktop/real-smis/node_modules/browser-sync"
+    ]
+  ],
+  "_from": "browser-sync-client@^2.26.6",
+  "_hasShrinkwrap": false,
+  "_id": "browser-sync-client@2.27.11",
+  "_inCache": true,
+  "_location": "/browser-sync-client",
+  "_nodeVersion": "16.13.2",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/browser-sync-client_2.27.11_1671468117957_0.8287616806563494"
+  },
+  "_npmUser": {
+    "name": "shakyshane",
+    "email": "shakyshane@gmail.com"
+  },
+  "_npmVersion": "lerna/4.0.0/node@v16.13.2+arm64 (darwin)",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "browser-sync-client@^2.26.6",
+    "scope": null,
+    "escapedName": "browser-sync-client",
+    "name": "browser-sync-client",
+    "rawSpec": "^2.26.6",
+    "spec": ">=2.26.6 <3.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/browser-sync"
+  ],
+  "_resolved": "https://registry.npmjs.org/browser-sync-client/-/browser-sync-client-2.27.11.tgz",
+  "_shasum": "1450e662ba805386b842f2b89456b48bdab7b968",
+  "_shrinkwrap": null,
+  "_spec": "browser-sync-client@^2.26.6",
+  "_where": "/home/smis/Desktop/real-smis/node_modules/browser-sync",
+  "author": {
+    "name": "Shane Osbourne",
+    "email": "shane.osbourne8@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/shakyshane/browser-sync-client/issues"
+  },
+  "dependencies": {
+    "etag": "1.8.1",
+    "fresh": "0.5.2",
+    "mitt": "^1.1.3",
+    "rxjs": "^5.5.6",
+    "typescript": "^4.6.2"
+  },
+  "description": "Client-side scripts for BrowserSync",
+  "devDependencies": {
+    "@types/node": "^8",
+    "esbuild": "^0.14.27",
+    "nanologger": "^1.3.1",
+    "socket.io-client": "^4.4.1"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dist": {
+    "integrity": "sha512-okMNfD2NasL/XD1/BclP3onXjhahisk3e/kTQ5HPDT/lLqdBqNDd6QFcjI5I1ak7na2hxKQSLjryql+7fp5gKQ==",
+    "shasum": "1450e662ba805386b842f2b89456b48bdab7b968",
+    "tarball": "https://registry.npmjs.org/browser-sync-client/-/browser-sync-client-2.27.11.tgz",
+    "fileCount": 5,
+    "unpackedSize": 152475,
+    "signatures": [
+      {
+        "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+        "sig": "MEUCIQDk6I3dit5Zc5opwHMC2mYF2j4PSTZywoUCAnaklTkD1QIgBnkqQbs5ISeAoIZLqy4zrmiKBsTCv8AKZHTMRSirXK4="
+      }
+    ],
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjoJRWACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoJWg//RrVgS0N8sZ9YTwvS1fkqjtUbmYX+681YjzmosYuXq/FoIiaG\r\nATkn7jFqYwVZutUY74bTsiAZv1uCcgYpWZoe9tfqbu4pPNrYf4l22HDZFx4s\r\nkbrKKqPjK+1aNDA5fNjKN/eGqBd8uG3OEhxcgFbuUoPj0S8b0Sar8vgd9vO5\r\ndRwyLV831dQvBdHAdSx57a1A0+fa3Ew2blym+i+AFXRAYw/Pr4LRGVy2WCaI\r\ngDW2HR3F9oxTGzS9s9lO/hgqq7ie9SVwA8MBARS98hrcE+ZVxP2aNVU0G9hS\r\n6gfiWPkNZztOaTWm83GJ8W7/aowwQKLXNMrwG5I/0ogojbaL1yytuFHLU3yW\r\n+EHMmQhIMSIevQvBmJAzJ+nCn5wTXDsRGVe2CL1jSQSN7vx9+aroUlAHgAo7\r\nrGrXpnkfXal9SbksYtcCYKEISLFoP8KE4rGOXNYljb26YucpBf+ISgmuOB6l\r\noeNahpTXA20dhub4H6lU3Dj2U+oAa9rhXWTR9L6W/TuV+ksUETqcVOu5oSa5\r\ne8Yz5IV7M/j+bsqvISLTGFQJ2mnHWqNuOWJRxlVhQc1kDpIhkPMU/wvg3Wzc\r\nmgiReC55QBU32EJ5n6jNTgRN/69ED10IJ+HPFNQQpPW6CTH8nZ7YveN9TBNG\r\n9oyhSQqisH2synS1rPCHzmqJ8W7t0ZD91PU=\r\n=rRq4\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "gitHead": "01caeb38f034eb04619c4c14c9376f14eb76184b",
+  "homepage": "https://github.com/shakyshane/browser-sync-client",
+  "keywords": [],
+  "license": "ISC",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/shakyshane/browser-sync-client/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "shakyshane",
+      "email": "shakyshane@gmail.com"
+    }
+  ],
+  "name": "browser-sync-client",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shakyshane/browser-sync-client.git"
+  },
+  "scripts": {
+    "build": "npm run clean && npm run tsc && npm run bundle",
+    "bundle": "esbuild _dist/index.js --bundle --outdir=dist --minify",
+    "clean": "rm -rf dist/* _dist/*",
+    "prepublishOnly": "npm run build",
+    "tsc": "rm -rf dist/* dist2/* && tsc",
+    "watch": "npm run build:prod -- --watch"
+  },
+  "version": "2.27.11",
+  "warnings": [
+    {
+      "code": "ENOTSUP",
+      "required": {
+        "node": ">=8.0.0"
+      },
+      "pkgid": "browser-sync-client@2.27.11"
+    },
+    {
+      "code": "ENOTSUP",
+      "required": {
+        "node": ">=8.0.0"
+      },
+      "pkgid": "browser-sync-client@2.27.11"
+    }
+  ]
+}

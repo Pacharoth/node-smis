@@ -1,0 +1,144 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "laravel-elixir-vueify-2.0@^1.0.3",
+        "scope": null,
+        "escapedName": "laravel-elixir-vueify-2.0",
+        "name": "laravel-elixir-vueify-2.0",
+        "rawSpec": "^1.0.3",
+        "spec": ">=1.0.3 <2.0.0",
+        "type": "range"
+      },
+      "/Volumes/myStudy/resources/school_task/smis-production"
+    ],
+    [
+      {
+        "raw": "laravel-elixir-vueify-2.0@git+https://github.com/iphearum/laravel-elixir-vueify-2.0.git",
+        "scope": null,
+        "escapedName": "laravel-elixir-vueify-2.0",
+        "name": "laravel-elixir-vueify-2.0",
+        "rawSpec": "git+https://github.com/iphearum/laravel-elixir-vueify-2.0.git",
+        "spec": "git+https://github.com/iphearum/laravel-elixir-vueify-2.0.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:iphearum/laravel-elixir-vueify-2.0.git",
+          "sshUrl": "git+ssh://git@github.com/iphearum/laravel-elixir-vueify-2.0.git",
+          "httpsUrl": "git+https://github.com/iphearum/laravel-elixir-vueify-2.0.git",
+          "gitUrl": "git://github.com/iphearum/laravel-elixir-vueify-2.0.git",
+          "shortcut": "github:iphearum/laravel-elixir-vueify-2.0",
+          "directUrl": "https://raw.githubusercontent.com/iphearum/laravel-elixir-vueify-2.0/master/package.json"
+        }
+      },
+      "/home/smis/Desktop/real-smis"
+    ]
+  ],
+  "_from": "git+https://github.com/iphearum/laravel-elixir-vueify-2.0.git",
+  "_id": "laravel-elixir-vueify-2.0@1.0.3",
+  "_inCache": true,
+  "_location": "/laravel-elixir-vueify-2.0",
+  "_nodeVersion": "6.3.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/laravel-elixir-vueify-2.0-1.0.3.tgz_1469791088295_0.11285337968729436"
+  },
+  "_npmUser": {
+    "name": "indal",
+    "email": "andreas@rocketship.se"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {
+    "chalk": "1.1.3",
+    "convert-source-map": "1.9.0",
+    "cssnano": "3.10.0",
+    "has-flag": "1.0.0",
+    "hash-sum": "1.0.2",
+    "js-base64": "2.1.9",
+    "json5": "0.5.1",
+    "object-assign": "4.1.1",
+    "postcss-selector-parser": "2.2.3",
+    "pseudomap": "1.0.2",
+    "source-map": "0.5.7",
+    "through": "2.3.8",
+    "vue-template-compiler": "2.7.14",
+    "vue-template-es2015-compiler": "1.9.1",
+    "yallist": "2.1.2"
+  },
+  "_requested": {
+    "raw": "laravel-elixir-vueify-2.0@git+https://github.com/iphearum/laravel-elixir-vueify-2.0.git",
+    "scope": null,
+    "escapedName": "laravel-elixir-vueify-2.0",
+    "name": "laravel-elixir-vueify-2.0",
+    "rawSpec": "git+https://github.com/iphearum/laravel-elixir-vueify-2.0.git",
+    "spec": "git+https://github.com/iphearum/laravel-elixir-vueify-2.0.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:iphearum/laravel-elixir-vueify-2.0.git",
+      "sshUrl": "git+ssh://git@github.com/iphearum/laravel-elixir-vueify-2.0.git",
+      "httpsUrl": "git+https://github.com/iphearum/laravel-elixir-vueify-2.0.git",
+      "gitUrl": "git://github.com/iphearum/laravel-elixir-vueify-2.0.git",
+      "shortcut": "github:iphearum/laravel-elixir-vueify-2.0",
+      "directUrl": "https://raw.githubusercontent.com/iphearum/laravel-elixir-vueify-2.0/master/package.json"
+    }
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/iphearum/laravel-elixir-vueify-2.0.git#22c9b38f328d92abc13bf510fd3764cd46a68bae",
+  "_shasum": "bbe02dd88069460c96c371c15c3cea7451649aa3",
+  "_shrinkwrap": null,
+  "_spec": "laravel-elixir-vueify-2.0@git+https://github.com/iphearum/laravel-elixir-vueify-2.0.git",
+  "_where": "/home/smis/Desktop/real-smis",
+  "authors": [
+    "Jeffrey Way",
+    "Andreas Indal"
+  ],
+  "bugs": {
+    "url": "https://github.com/andreasindal/laravel-elixir-vueify/issues"
+  },
+  "dependencies": {
+    "babel-core": "^6.3.26",
+    "babel-plugin-transform-runtime": "^6.3.13",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-runtime": "^6.0.0",
+    "vue": "^2.0.0-beta.5",
+    "vue-hot-reload-api": "2.0.5",
+    "vueify": "^9.2.4",
+    "vueify-insert-css": "^1.0.0"
+  },
+  "description": "Laravel Elixir Vueify Support (for Vue 2.0)",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "e5679b1f42e992f6c77f7324c7bfaf39e068a290",
+    "tarball": "https://registry.npmjs.org/laravel-elixir-vueify-2.0/-/laravel-elixir-vueify-2.0-1.0.3.tgz"
+  },
+  "gitHead": "cb367d7f40580ed0208eafef8ed6d1311ade6e66",
+  "homepage": "https://github.com/andreasindal/laravel-elixir-vueify",
+  "keywords": [
+    "laravel",
+    "elixir",
+    "vueify",
+    "vue",
+    "vue 2.0"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "indal",
+      "email": "andreas@rocketship.se"
+    }
+  ],
+  "name": "laravel-elixir-vueify-2.0",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreasindal/laravel-elixir-vueify.git"
+  },
+  "scripts": {},
+  "version": "1.0.3"
+}

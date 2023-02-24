@@ -1,0 +1,190 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "engine.io-client@~6.2.3",
+        "scope": null,
+        "escapedName": "engine.io-client",
+        "name": "engine.io-client",
+        "rawSpec": "~6.2.3",
+        "spec": ">=6.2.3 <6.3.0",
+        "type": "range"
+      },
+      "/home/smis/Desktop/real-smis/node_modules/socket.io-client"
+    ],
+    [
+      {
+        "raw": "engine.io-client@~6.2.3",
+        "scope": null,
+        "escapedName": "engine.io-client",
+        "name": "engine.io-client",
+        "rawSpec": "~6.2.3",
+        "spec": ">=6.2.3 <6.3.0",
+        "type": "range"
+      },
+      "/home/smis/Desktop/real-smis/node_modules/socket.io-client"
+    ]
+  ],
+  "_from": "engine.io-client@~6.2.3",
+  "_hasShrinkwrap": false,
+  "_id": "engine.io-client@6.2.3",
+  "_inCache": true,
+  "_location": "/engine.io-client",
+  "_nodeVersion": "16.15.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/engine.io-client_6.2.3_1665657425408_0.35964121945726557"
+  },
+  "_npmUser": {
+    "name": "darrachequesne",
+    "email": "damien.arrachequesne@gmail.com"
+  },
+  "_npmVersion": "8.11.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "engine.io-client@~6.2.3",
+    "scope": null,
+    "escapedName": "engine.io-client",
+    "name": "engine.io-client",
+    "rawSpec": "~6.2.3",
+    "spec": ">=6.2.3 <6.3.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/socket.io-client"
+  ],
+  "_resolved": "https://registry.npmjs.org/engine.io-client/-/engine.io-client-6.2.3.tgz",
+  "_shasum": "a8cbdab003162529db85e9de31575097f6d29458",
+  "_shrinkwrap": null,
+  "_spec": "engine.io-client@~6.2.3",
+  "_where": "/home/smis/Desktop/real-smis/node_modules/socket.io-client",
+  "browser": {
+    "./test/node.js": false,
+    "./build/esm/transports/xmlhttprequest.js": "./build/esm/transports/xmlhttprequest.browser.js",
+    "./build/esm/transports/websocket-constructor.js": "./build/esm/transports/websocket-constructor.browser.js",
+    "./build/esm/globalThis.js": "./build/esm/globalThis.browser.js",
+    "./build/cjs/transports/xmlhttprequest.js": "./build/cjs/transports/xmlhttprequest.browser.js",
+    "./build/cjs/transports/websocket-constructor.js": "./build/cjs/transports/websocket-constructor.browser.js",
+    "./build/cjs/globalThis.js": "./build/cjs/globalThis.browser.js"
+  },
+  "bugs": {
+    "url": "https://github.com/socketio/engine.io-client/issues"
+  },
+  "contributors": [
+    {
+      "name": "Guillermo Rauch",
+      "email": "rauchg@gmail.com"
+    },
+    {
+      "name": "Vladimir Dronnikov",
+      "email": "dronnikov@gmail.com"
+    },
+    {
+      "name": "Christoph Dorn",
+      "url": "https://github.com/cadorn"
+    },
+    {
+      "name": "Mark Mokryn",
+      "email": "mokesmokes@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "@socket.io/component-emitter": "~3.1.0",
+    "debug": "~4.3.1",
+    "engine.io-parser": "~5.0.3",
+    "ws": "~8.2.3",
+    "xmlhttprequest-ssl": "~2.0.0"
+  },
+  "description": "Client for the realtime Engine",
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@babel/plugin-transform-object-assign": "^7.12.1",
+    "@babel/preset-env": "^7.12.7",
+    "@rollup/plugin-babel": "^5.3.0",
+    "@rollup/plugin-commonjs": "^21.0.0",
+    "@rollup/plugin-node-resolve": "^13.0.5",
+    "@sinonjs/fake-timers": "^7.1.2",
+    "@types/mocha": "^9.0.0",
+    "@types/node": "^16.10.1",
+    "@types/sinonjs__fake-timers": "^6.0.3",
+    "babel-loader": "^8.2.2",
+    "blob": "0.0.5",
+    "engine.io": "^6.2.0-alpha.1",
+    "expect.js": "^0.3.1",
+    "express": "^4.17.1",
+    "mocha": "^3.2.0",
+    "prettier": "^1.19.1",
+    "rollup": "^2.58.0",
+    "rollup-plugin-terser": "^7.0.2",
+    "socket.io-browsers": "~1.0.4",
+    "typescript": "^4.4.3",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-remove-debug": "^0.1.0",
+    "zuul": "~3.11.1",
+    "zuul-builder-webpack": "^1.2.0",
+    "zuul-ngrok": "4.0.0"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-aXPtgF1JS3RuuKcpSrBtimSjYvrbhKW9froICH4s0F3XQWLxsKNxqzG39nnvQZQnva4CMvUK63T7shevxRyYHw==",
+    "shasum": "a8cbdab003162529db85e9de31575097f6d29458",
+    "tarball": "https://registry.npmjs.org/engine.io-client/-/engine.io-client-6.2.3.tgz",
+    "fileCount": 102,
+    "unpackedSize": 605325,
+    "signatures": [
+      {
+        "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+        "sig": "MEUCIAf+OJFr7WFF4XYF5Dt2qfut2vlhPRJ77F6orz7rpWWHAiEA8xYXbFhM4rn5DZeXgxJT8VqGSYnuoUx1EDn3emwk3ic="
+      }
+    ],
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjR+pRACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmqg3hAAmtJnoppvW2OuY63VHyol3dGeQGxJa8t+ZDQhJWelxgJCvJ7z\r\nWW3owkJk1I9dIa42G5DW803sH9USyam51ohdAsaMWYKJR5MURVBuAmnUZK9d\r\nMHWS8Bm7p9EdlBKpW1fkgIrvxYjnnjWV+zD1eQ2mtjQ3y22voM2HhNo+Pygw\r\nTtmReFARFX1Nu8e+QamrXLOUMR4LHKLhKFa5rJH0bh4bHPplcaKQ9m0RSf/Q\r\n7yLsm9NQkf0MPUV3Qjn6QC1gSCT77RWB2CQuqDdDmF8vRLRdEs+iNQMcZJAE\r\nsiLNYzTYa/NWKLk6o4QSp1ds2uvKc+s8Fnl6WJq0DUBUed3a9NAzVsISqkF9\r\n8UQYn40h3DkBxK3Qh7RRlJU6JLRtbmY58IvIY1Z8bRdGPwYekYeDvo0gckJt\r\nhOSuIX3T/PE7ZgMQSNK7jJ4txh0Lt01pKBH6rDriVz5si718llkSlVffDxla\r\nV6sMn9SRqV964Y28y3HLtxi87xrkD9dDaw/wVuu3E/5GAMRRAiR0V5r4Mbmj\r\n0f8S9vCIokCtvDNCZTckON86Es0OchC9UPNuKo7EbNrQccIlSbHKapJ7B0tX\r\nmzG3OtES8xM1fa+fi4jonApOEiAkgHYWodW0t5W6VYMWMQfDYHNEiUQ5uaAn\r\n2ssXS+cPHoutHTv3rFzbZHjehZ59xV9qx2Q=\r\n=NPaH\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "exports": {
+    "./package.json": "./package.json",
+    "./dist/engine.io.esm.min.js": "./dist/engine.io.esm.min.js",
+    "./dist/engine.io.js": "./dist/engine.io.js",
+    "./dist/engine.io.min.js": "./dist/engine.io.min.js",
+    ".": {
+      "import": {
+        "node": "./build/esm-debug/index.js",
+        "default": "./build/esm/index.js"
+      },
+      "require": "./build/cjs/index.js"
+    }
+  },
+  "gitHead": "9d772e36b504702e942b043ce18c3558c6acc1d5",
+  "homepage": "https://github.com/socketio/engine.io-client",
+  "license": "MIT",
+  "main": "./build/cjs/index.js",
+  "maintainers": [
+    {
+      "name": "rauchg",
+      "email": "rauchg@gmail.com"
+    },
+    {
+      "name": "darrachequesne",
+      "email": "damien.arrachequesne@gmail.com"
+    }
+  ],
+  "module": "./build/esm/index.js",
+  "name": "engine.io-client",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/socketio/engine.io-client.git"
+  },
+  "scripts": {
+    "build": "rollup -c support/rollup.config.umd.js && rollup -c support/rollup.config.esm.js",
+    "compile": "rimraf ./build && tsc && tsc -p tsconfig.esm.json && ./postcompile.sh",
+    "format:check": "prettier --check 'lib/**/*.ts' 'test/**/*.js' 'support/**/*.js'",
+    "format:fix": "prettier --write 'lib/**/*.ts' 'test/**/*.js' 'support/**/*.js'",
+    "prepack": "npm run compile",
+    "test": "npm run format:check && npm run compile && if test \"$BROWSERS\" = \"1\" ; then npm run test:browser; else npm run test:node; fi",
+    "test:browser": "zuul test/index.js",
+    "test:node": "mocha --bail --reporter dot --require test/support/server.js test/index.js"
+  },
+  "types": "build/esm/index.d.ts",
+  "version": "6.2.3"
+}

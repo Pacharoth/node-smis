@@ -1,0 +1,92 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cached-path-relative@^1.0.0",
+        "scope": null,
+        "escapedName": "cached-path-relative",
+        "name": "cached-path-relative",
+        "rawSpec": "^1.0.0",
+        "spec": ">=1.0.0 <2.0.0",
+        "type": "range"
+      },
+      "/home/smis/Desktop/real-smis/node_modules/watchify/node_modules/browserify"
+    ]
+  ],
+  "_from": "cached-path-relative@>=1.0.0 <2.0.0",
+  "_hasShrinkwrap": false,
+  "_id": "cached-path-relative@1.1.0",
+  "_inCache": true,
+  "_location": "/cached-path-relative",
+  "_nodeVersion": "10.19.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cached-path-relative_1.1.0_1642619723064_0.19105778739324775"
+  },
+  "_npmUser": {
+    "name": "ashaffer88",
+    "email": "darawk@gmail.com"
+  },
+  "_npmVersion": "6.14.4",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cached-path-relative@^1.0.0",
+    "scope": null,
+    "escapedName": "cached-path-relative",
+    "name": "cached-path-relative",
+    "rawSpec": "^1.0.0",
+    "spec": ">=1.0.0 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/watchify/browserify",
+    "/watchify/module-deps"
+  ],
+  "_resolved": "https://registry.npmjs.org/cached-path-relative/-/cached-path-relative-1.1.0.tgz",
+  "_shasum": "865576dfef39c0d6a7defde794d078f5308e3ef3",
+  "_shrinkwrap": null,
+  "_spec": "cached-path-relative@^1.0.0",
+  "_where": "/home/smis/Desktop/real-smis/node_modules/watchify/node_modules/browserify",
+  "bugs": {
+    "url": "https://github.com/ashaffer/cached-path-relative/issues"
+  },
+  "dependencies": {},
+  "description": "Memoize the results of the path.relative function",
+  "devDependencies": {
+    "standard": "^4.0.0",
+    "tape": "^4.2.0"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-WF0LihfemtesFcJgO7xfOoOcnWzY/QHR4qeDqV44jPU3HTI54+LnfXK3SA27AVVGCdZFgjjFFaqUA9Jx7dMJZA==",
+    "shasum": "865576dfef39c0d6a7defde794d078f5308e3ef3",
+    "tarball": "https://registry.npmjs.org/cached-path-relative/-/cached-path-relative-1.1.0.tgz",
+    "fileCount": 7,
+    "unpackedSize": 3714,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJh6GNSCRA9TVsSAnZWagAAT8AP/00FRb09SuGo1NiIJBbR\ngyuBh3ZFIBNB8qwu2gbEFbvkzl6JWW16X+JdVUa58u9A7AHQ/CX0VFOeCMpP\n9F6ayJ65OOJqMbSj0LzJLUmkT3Acs02CGQMtLkK3YKfWfekdhro4sRsmlz3V\nz4NhAinJV0Zm+JBAqvy7lBsWQ4HjBYG1eKRgLXaMO0DVLCNfTEkE6ICByieh\ngs1zgR+I7AWLX8sqjYU6nM/6n/a2+978lHH0GL4TV+dkDtXtIF6d0HSasLtI\nh4sF2HmoG9Jgh6oQC2MU1+aIfibGaiYsrjFesV8TVIvPxAL/uA7+tXJRiSPD\nL4Xk9EDnQvRLWzNSVYGPBcocdcpAmIG6iVXWYIhfNMncZynJLsdJABWuUTlD\nytBP9LOonxZLC3fLAEzQn6anuLeW7zifklxgrmJMC4mxinPRKIbXrZXsT6vS\n+jpwcWhlRnoS7SIJzAPksyQAhR/ziGlnZm+btB8ocds8SS4vhc3Te+SwSAMA\nCjRRvHciN1xd3V8wEAyscQKsr3FsO8viK4H46KkNcewt50KmTufEaiUWgQlf\n+z+KlzD8HlogX8GQ6uzh4JyBY0Kj0eJib6R1LRXIxGUhMWYVdT49uoy2Cvht\nYYUOxI6PLwPZut+fV5oTtFJpG/LyTG1T8ZR+AH2JOjouBwMERDbunoWawsiM\nU4Bz\r\n=qx9V\r\n-----END PGP SIGNATURE-----\r\n",
+    "signatures": [
+      {
+        "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+        "sig": "MEQCIDlIbNyLZAMfgUCEH4ohStE+LFxk65FwGUjrvmuWZcPuAiBJDc2Op/k1JYn/jVhcxNVyAFS3jcAzd/i/RhzSEeNYcA=="
+      }
+    ]
+  },
+  "gitHead": "07947c44e3a5f66d723e34719a9e95e557a5c619",
+  "homepage": "https://github.com/ashaffer/cached-path-relative#readme",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "maintainers": [
+    {
+      "name": "ashaffer88",
+      "email": "darawk@gmail.com"
+    }
+  ],
+  "name": "cached-path-relative",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ashaffer/cached-path-relative.git"
+  },
+  "version": "1.1.0"
+}

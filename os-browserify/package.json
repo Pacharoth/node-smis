@@ -1,0 +1,81 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "os-browserify@~0.1.1",
+        "scope": null,
+        "escapedName": "os-browserify",
+        "name": "os-browserify",
+        "rawSpec": "~0.1.1",
+        "spec": ">=0.1.1 <0.2.0",
+        "type": "range"
+      },
+      "/home/smis/Desktop/real-smis/node_modules/browserify"
+    ]
+  ],
+  "_from": "os-browserify@>=0.1.1 <0.2.0",
+  "_id": "os-browserify@0.1.2",
+  "_inCache": true,
+  "_location": "/os-browserify",
+  "_npmUser": {
+    "name": "drewyoung1",
+    "email": "drewyoung1@gmail.com"
+  },
+  "_npmVersion": "1.3.25",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "os-browserify@~0.1.1",
+    "scope": null,
+    "escapedName": "os-browserify",
+    "name": "os-browserify",
+    "rawSpec": "~0.1.1",
+    "spec": ">=0.1.1 <0.2.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/browserify"
+  ],
+  "_resolved": "https://registry.npmjs.org/os-browserify/-/os-browserify-0.1.2.tgz",
+  "_shasum": "49ca0293e0b19590a5f5de10c7f265a617d8fe54",
+  "_shrinkwrap": null,
+  "_spec": "os-browserify@~0.1.1",
+  "_where": "/home/smis/Desktop/real-smis/node_modules/browserify",
+  "author": {
+    "name": "Drew Young"
+  },
+  "browser": "browser.js",
+  "bugs": {
+    "url": "https://github.com/drewyoung1/os-browserify/issues"
+  },
+  "dependencies": {},
+  "description": "os-browserify =============",
+  "devDependencies": {},
+  "dist": {
+    "shasum": "49ca0293e0b19590a5f5de10c7f265a617d8fe54",
+    "tarball": "https://registry.npmjs.org/os-browserify/-/os-browserify-0.1.2.tgz",
+    "integrity": "sha512-aZicJZccvxWOZ0Bja2eAch2L8RIJWBuRYmM8Gwl/JjNtRltH0Itcz4eH/ESyuIWfse8cc93ZCf0XrzhXK2HEDA==",
+    "signatures": [
+      {
+        "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+        "sig": "MEYCIQCs0ASqhgWW2z45IAd0GEIXmSfw6jucsUmxDNpZY3IA2QIhANUTuCoYAD98RA2CUPhNHpzp2UYArK3kCK1AJmWR0Ogg"
+      }
+    ]
+  },
+  "homepage": "https://github.com/drewyoung1/os-browserify",
+  "license": "MIT",
+  "main": "main.js",
+  "maintainers": [
+    {
+      "name": "drewyoung1",
+      "email": "drewyoung1@gmail.com"
+    }
+  ],
+  "name": "os-browserify",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/drewyoung1/os-browserify.git"
+  },
+  "version": "0.1.2"
+}
